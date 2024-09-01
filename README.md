@@ -1,7 +1,3 @@
-Your README file is quite well-structured! Here’s a revised version with a few minor corrections and improvements:
-
----
-
 # ChatApp Repository
 
 Welcome to the official repository for **ChatApp**! This repository contains the source code and assets for our vibrant and engaging messaging platform.
